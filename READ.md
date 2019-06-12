@@ -1,4 +1,4 @@
-wnid detection
+wind detection
 ====
 
 Overview
